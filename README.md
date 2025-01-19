@@ -79,7 +79,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jacksonsebastian/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jacksonsebastian/jacksonsebastian/output/snake.svg" alt="Snake animation" />
 
 ###
 
