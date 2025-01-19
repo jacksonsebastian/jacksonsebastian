@@ -101,9 +101,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/jacksonsebastian/count.svg?"  />
 </div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
