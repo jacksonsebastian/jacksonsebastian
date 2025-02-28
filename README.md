@@ -79,6 +79,28 @@
 
 ###
 
+<h2 align="left">LeetCode Stats</h2>
+
+###
+
+<div align="left">
+  <a href="https://leetcode.com/jacksonsebastian" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjacksonsebastian&logo=leetcode&logoColor=yellow" alt="LeetCode Solved Problems" />
+  </a>
+</div>
+
+<div align="left">
+  <a href="https://leetcode.com/jacksonsebastian" target="_blank">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjacksonsebastian&logo=leetcode&logoColor=yellow" alt="LeetCode Ranking" />
+  </a>
+</div>
+
+<div align="center">
+  <p>Check out my <a href="https://leetcode.com/jacksonsebastian/" target="_blank">LeetCode profile</a> to see all my solved problems and progress!</p>
+</div>
+
+###
+
 <img src="https://raw.githubusercontent.com/jacksonsebastian/jacksonsebastian/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -93,6 +115,9 @@
   </a>
   <a href="https://www.hackerrank.com/profile/jackson_S" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+  <a href="https://leetcode.com/jacksonsebastian" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="52" height="40" alt="leetcode logo"  />
   </a>
 </div>
 
